@@ -1,5 +1,7 @@
 #step1
-
+# Names: IRAKOZE Kelly Hubert
+# Regno: 221011487
+# Department: Computer Science
 
 num_people = int(input("Enter the number of friends joining (including you):\n"))
 
